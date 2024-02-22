@@ -1,6 +1,6 @@
 ### Hi there I'm Shreya Pawar👋
 
-<!--
+
 **shreyap1221/shreyap1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [...](https://www.linkedin.com/in/shreyapawar002/)https://www.linkedin.com/in/shreyapawar002/
 - 😄 Pronouns: She/her
 - ⚡ Fun Fact: 🍔 Can't code on an empty stomach! 🍕 #FoodieForLife
--->
+
