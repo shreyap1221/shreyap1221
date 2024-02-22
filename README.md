@@ -1,5 +1,5 @@
 ### Hi there, I'm Shreya Pawar👋
-
+Computer Engineering Student at Vishwakarma Institute of Technology, Pune 🎓 | Ex-Data Science Intern at Mahindra Group 📊 | Code & cuisine aficionado 🍔👨‍💻
 - 🔭 I’m currently pursuing my CSE Engineering from VIT college.
 - 🔭 I’m currently working on Machine Learning, Deep Learning 
 - 🌱 I’m currently learning React JS, ML, MERN Stack
